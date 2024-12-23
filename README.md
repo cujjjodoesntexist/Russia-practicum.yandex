@@ -8,5 +8,5 @@
 * Методология БЭМ
 * Работа с макетом в Figma
   
-Посмотреть проект можно [тут](#)
+Посмотреть проект можно [тут](https://cujjjodoesntexist.github.io/Russia-practicum.yandex/)
 
